@@ -1,0 +1,14 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main Head Frame -->
+  <path d="M 50 5 L 70 20 V 35 H 85 L 90 60 L 70 80 L 50 95 L 30 80 L 10 60 L 15 35 H 30 V 20 Z" fill="#050505" stroke="#dc2626" stroke-width="4" />
+  <!-- Forehead Crest -->
+  <path d="M 42 20 H 58 L 50 35 Z" fill="#dc2626"/>
+  <!-- Optics / Eyes -->
+  <path d="M 28 45 L 42 50 L 28 55 Z" fill="#60a5fa" />
+  <path d="M 72 45 L 58 50 L 72 55 Z" fill="#60a5fa" />
+  <!-- Mouth/Jaw Guard -->
+  <path d="M 40 65 L 50 72 L 60 65 V 78 L 50 85 L 40 78 Z" fill="#171717" stroke="#dc2626" stroke-width="2"/>
+  <!-- Cheek Lines -->
+  <line x1="25" y1="65" x2="35" y2="75" stroke="#dc2626" stroke-width="2" />
+  <line x1="75" y1="65" x2="65" y2="75" stroke="#dc2626" stroke-width="2" />
+</svg>
